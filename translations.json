@@ -1,0 +1,22 @@
+{
+    "ru": {
+        "info": "Позволяет просматривать серверные логи",
+
+        "failConnect": "Не удалось присоединиться к серверу для получения данных!",
+        "failGetFile": "Не удалось получить файл по пути `{path}`!"
+    },
+
+    "en": {
+        "info": "Allows you to view server logs",
+
+        "failConnect": "Failed to connect to the server to receive data!",
+        "failGetFile": "Failed to get file at `{path}`!"
+    },
+
+    "ua": {
+        "info": "Дозволяє переглядати серверні логи",
+
+        "failConnect": "Не вдалося приєднатися до сервера для отримання даних!",
+        "failGetFile": "Неможливо отримати файл на шляху `{path}`!"
+    }
+}
