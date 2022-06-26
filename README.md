@@ -22,8 +22,8 @@
 
 #### Installing
 
-* Transfer the files from the archive to the **modules/** folder
-* Install the necessary dependencies with the following command => **npm i basic-ftp sftp-async**
+* Transfer the files from the archive to the `modules/` folder
+* Install the necessary dependencies with the following command => `npm i basic-ftp sftp-async`
 * Perform configuration settings according to the instructions
 * Restart bot
 </br>
