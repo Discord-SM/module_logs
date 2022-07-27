@@ -1,15 +1,15 @@
 {
     "name": "DiscordSM Module | Logs",
     "author": "xyligan",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Добавляет возможность просматривать логи всех доступных серверов",
 
     "requires": {
-        "core": "0.3.0"
+        "core": "0.4.0"
     },
 
     "ftps": [
-        { "name": "Test Server #1", "value": "ftpType|rootType|gameType|ftpHost|ftpPort|ftpUser|ftpPassword" }
+        { "name": "Test CS:S v34", "value": "ftpType|rootType|gameType|ftpHost|ftpPort|ftpuser|ftpPassword" }
     ],
 
     "logs": [

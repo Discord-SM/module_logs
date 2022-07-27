@@ -2,21 +2,21 @@
     "ru": {
         "info": "Позволяет просматривать серверные логи",
 
-        "failConnect": "Не удалось присоединиться к серверу для получения данных!",
-        "failGetFile": "Не удалось получить файл по пути `{path}`!"
+        "failGetFile": "{e} | Не удалось загрузить файл по пути `{path}`!",
+        "failConnect": "{e} | Не удалось подключиться к серверу для получения файла!"
     },
 
     "en": {
         "info": "Allows you to view server logs",
 
-        "failConnect": "Failed to connect to the server to receive data!",
-        "failGetFile": "Failed to get file at `{path}`!"
+        "failGetFile": "{e} | Failed to load file at `{path}`!",
+        "failConnect": "{e} | Failed to connect to the server to get the file!"
     },
 
     "ua": {
         "info": "Дозволяє переглядати серверні логи",
 
-        "failConnect": "Не вдалося приєднатися до сервера для отримання даних!",
-        "failGetFile": "Неможливо отримати файл на шляху `{path}`!"
+        "failGetFile": "{e} | Неможливо завантажити файл шляхом `{path}`!",
+        "failConnect": "{e} | Неможливо підключитися до сервера для отримання файлу!"
     }
 }
