@@ -2,7 +2,7 @@
     DiscordSM Module | Logs
 </h2>
 <h2 align="center">
-    Current version: 0.1.0
+    Current version: 0.2.0
 </h2>
 <p align="center">
     DiscordSM module for getting server logs 
